@@ -78,11 +78,6 @@
   resolved "https://registry.yarnpkg.com/@next/env/-/env-13.5.8.tgz#404d3b3e5881b6a0510500c6cc97e3589a2e6371"
   integrity sha512-YmiG58BqyZ2FjrF2+5uZExL2BrLr8RTQzLXNDJ8pJr0O+rPlOeDPXp1p1/4OrR3avDidzZo3D8QO2cuDv1KCkw==
 
-"@next/font@^14.2.15":
-  version "14.2.15"
-  resolved "https://registry.yarnpkg.com/@next/font/-/font-14.2.15.tgz#4e6f0d5b14ecc6b6dea7c1b07e42855e5f14823a"
-  integrity sha512-QopYhBmCDDrNDynbi+ZD1hDZXmQXVFo7TmAFp4DQgO/kogz1OLbQ92hPigJbj572eZ3GaaVxNIyYVn3/eAsehg==
-
 "@next/mdx@^13.5.4":
   version "13.5.8"
   resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-13.5.8.tgz#09e6d0efc0e1f2ec38c4b1723cfcce956f0a2ef1"
